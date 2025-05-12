@@ -4,7 +4,7 @@ Concise, personal notes and cheat sheets on core topics in statistics, machine l
 
 ## Structure (plan)
 
-- `ml/` — Algorithms, loss functions, model summaries
+- `machine-learning/` — Algorithms, loss functions, model summaries
 - `stats/` — Distributions, estimators, inference
 - `finance/` — Pricing models, risk, portfolio theory
 - `math/` — Linear algebra, optimization, calculus
