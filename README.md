@@ -2,7 +2,7 @@
 
 Concise, personal notes and cheat sheets on core topics in statistics, machine learning, math, and finance.
 
-## Structure (plan)
+## Structure
 
 - `machine-learning/` — Algorithms, loss functions, model summaries
 - `stats/` — Distributions, estimators, inference
