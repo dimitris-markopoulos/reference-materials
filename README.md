@@ -6,9 +6,7 @@ Concise, personal notes and cheat sheets on core topics in statistics, machine l
 
 - `machine-learning/` — Algorithms, loss functions, model summaries
 - `stats/` — Distributions, estimators, inference
-- `finance/` — Pricing models, risk, portfolio theory
-- `math/` — Linear algebra, optimization, calculus
-- `code-snippets/` — Python patterns for analysis and modeling
+- `awards-and-certifications/` — Awards, certifications, etc
 
 ## Purpose
 
